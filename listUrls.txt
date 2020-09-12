@@ -1,1 +1,1 @@
-[{"url":"http://cilibao8.net","key":"cilibao"},{"url":"https://zooqle.com","key":"zooqle"}]
+[{"url":"http://cilibao8.net","key":"cilibao"},{"url":"https://zooqle.com","key":"zooqle"},{"url":"https://btsow.online","key":"btshow"}]
