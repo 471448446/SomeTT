@@ -1,1 +1,1 @@
-[{"url":"http://063.org","key":"cilibao"},{"url":"https://zooqle.com","key":"zooqle"},{"url":"https://btsow.com","key":"btshow"}]
+[{"url":"http://063.org","key":"cilibao"},{"url":"https://zooqle.com","key":"zooqle"},{"url":"https://btsow.rest","key":"btshow"}]
