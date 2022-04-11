@@ -1,1 +1,1 @@
-[{"url":"http://063.org","key":"cilibao"},{"url":"https://zooqle.com","key":"zooqle"},{"url":"https://btsow.rest","key":"btshow"}]
+[{"key":"btshow","url":"https://btsow.rest"},{"key":"zooqle","url":"https://zooqle.com"},{"key":"clzz","url":"http://www.eclzz.mobi"},{"key":"torrentdownload","url":"https://www.torrentdownload.info"},{"key":"theBay","url":"https://m.thepiratebay10.org"},{"key":"nyaa","url":"https://nyaa.si"},{"key":"zhongziso","url":"https://zhongziso50.xyz"}]
