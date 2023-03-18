@@ -9,5 +9,6 @@
 ```bash
 git remote set-url origin git@github.com:471448446/SomeTT.git
 git remote set-url origin git@code.aliyun.com:lysmbetter/SomeTT.git
+git remote set-url origin git@gitee.com:lysmbetter/somett.git
 ```
 
